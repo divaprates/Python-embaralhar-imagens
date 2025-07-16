@@ -3,7 +3,7 @@
 
 ##
 
-- O código irá copiar os arquivos .jpeg da pasta /imagens para a pasta /imagens2, embaralhando a nomenclatura dos mesmos. Espera-se que os arquivos sejam nomeados com números inteiros sequênciais, começando em 1.
+- A aplicação irá copiar os arquivos .jpeg da pasta /imagens para a pasta /imagens2, embaralhando a nomenclatura dos mesmos. Espera-se que os arquivos sejam nomeados com números inteiros sequênciais, começando em 1.
 
 
 <hr/>
